@@ -27,12 +27,12 @@ The key features of this project are:
 **Command-line demo** (`sentiment.py`): loads the trained model and lets you classify any sentence interactively, showing the predicted class and the probability for each category.
 
 ## Repository Contents
-- `Notebook.ipynb` — full pipeline: data loading, preprocessing, training and evaluation.
+- `sentiment_analysis.ipynb` — full pipeline: data loading, preprocessing, training and evaluation.
 - `sentiment.py` — CLI script to run the trained classifier interactively.
 - `model.pth`, `vectorizer.pkl`, `label_encoder.pkl` — trained model and preprocessing artifacts needed by the CLI.
-- `Tweets_INTEGRALE.csv` — dataset used for training and evaluation.
+- `tweets_dataset.csv` — dataset used for training and evaluation.
 - `Demo.mp4` — short demo of the CLI classifying sentences in real time.
-- `Relazione Progetto ML.pdf` / `.docx` — full project report (Italian).
+- `project_report.pdf` / `.docx` — full project report (Italian).
 
 ## How to Run
 ```bash

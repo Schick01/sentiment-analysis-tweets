@@ -1,7 +1,5 @@
 # Sentiment Analysis on Tweets
 
-![demo](assets/demo_preview.png)
-
 ## Overview
 This project tackles a Sentiment Analysis task: the automatic classification of tweets into three categories — **Positive**, **Negative**, and **Neutral**. Starting from a labeled dataset, the goal is to build a classifier capable of predicting the sentiment of a tweet from its text.
 
